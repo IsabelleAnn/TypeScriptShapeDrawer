@@ -1,0 +1,21 @@
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript\Isabelle Dikovsky\Isabelle Dikovsky\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript\Isabelle Dikovsky\Isabelle Dikovsky\bin\TypeScriptHTMLApp1.dll
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript\Isabelle Dikovsky\Isabelle Dikovsky\bin\TypeScriptHTMLApp1.pdb
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript\Isabelle Dikovsky\Isabelle Dikovsky\obj\Debug\Isabelle Dikovsky.csprojResolveAssemblyReference.cache
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript\Isabelle Dikovsky\Isabelle Dikovsky\obj\Debug\Isabelle Dikovsky.csproj.CoreCompileInputs.cache
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript\Isabelle Dikovsky\Isabelle Dikovsky\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript\Isabelle Dikovsky\Isabelle Dikovsky\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript Project\Isabelle Dikovsky\Isabelle Dikovsky\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript Project\Isabelle Dikovsky\Isabelle Dikovsky\bin\TypeScriptHTMLApp1.dll
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript Project\Isabelle Dikovsky\Isabelle Dikovsky\bin\TypeScriptHTMLApp1.pdb
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript Project\Isabelle Dikovsky\Isabelle Dikovsky\obj\Debug\Isabelle Dikovsky.csprojResolveAssemblyReference.cache
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript Project\Isabelle Dikovsky\Isabelle Dikovsky\obj\Debug\Isabelle Dikovsky.csproj.CoreCompileInputs.cache
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript Project\Isabelle Dikovsky\Isabelle Dikovsky\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\IzyD\Desktop\Net Fullstack\TypeScript Project\Isabelle Dikovsky\Isabelle Dikovsky\obj\Debug\TypeScriptHTMLApp1.pdb
+D:\Net Fullstack\TypeScript Project\Isabelle Dikovsky - Copy\Isabelle Dikovsky\bin\TypeScriptHTMLApp1.dll.config
+D:\Net Fullstack\TypeScript Project\Isabelle Dikovsky - Copy\Isabelle Dikovsky\bin\TypeScriptHTMLApp1.dll
+D:\Net Fullstack\TypeScript Project\Isabelle Dikovsky - Copy\Isabelle Dikovsky\bin\TypeScriptHTMLApp1.pdb
+D:\Net Fullstack\TypeScript Project\Isabelle Dikovsky - Copy\Isabelle Dikovsky\obj\Debug\Isabelle Dikovsky.csprojResolveAssemblyReference.cache
+D:\Net Fullstack\TypeScript Project\Isabelle Dikovsky - Copy\Isabelle Dikovsky\obj\Debug\Isabelle Dikovsky.csproj.CoreCompileInputs.cache
+D:\Net Fullstack\TypeScript Project\Isabelle Dikovsky - Copy\Isabelle Dikovsky\obj\Debug\TypeScriptHTMLApp1.dll
+D:\Net Fullstack\TypeScript Project\Isabelle Dikovsky - Copy\Isabelle Dikovsky\obj\Debug\TypeScriptHTMLApp1.pdb
